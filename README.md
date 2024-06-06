@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋,I'm Shafayet Hussain</h1>
 <h3 align="center">I'm a FrontEnd Developer from Bangladesh.</h3>
-<!--  <img src="assets/gifs/waving-hand-joypixels.gif" height="28px" width="28px"> -->
+<!--  <img src="assets/gifs/waving-hand-joypixels.gif" height="28px" width="28px"> --> 
 <br>
 <!-- 
 <p align="center">
