@@ -26,7 +26,7 @@
 
 - 🔭 &nbsp; I’m currently working at **Algorithm Generation** <img src="assets/gifs/winking-face-joypixels.gif" height="22px" width="22px">
 
-- 🌱 &nbsp; I’m currently learning **Next.Js** <img src="assets/gifs/writing-hand-joypixels.gif" height="22px" width="22px">
+- 🌱 &nbsp; I’m currently learning **Next.Js, Python, DRF** <img src="assets/gifs/writing-hand-joypixels.gif" height="22px" width="22px">
 
 - 👯 &nbsp; I’m looking to collaborate on **open source projects** <img src="assets/gifs/waving-hand-joypixels.gif" height="22px" width="22px">
 
